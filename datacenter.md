@@ -24,6 +24,11 @@ electricity.
 
 Power data sourced from [Power Content Label](https://www.smud.org/-/media/Documents/Corporate/Environmental-Leadership/PowerContentLabel.ashx).
 
+## Cost of power
+
+Using data from [OpenEI](https://openei.org/wiki/Utility_Rate_Database) it is esimated
+that the average cost of electricity for this facility will be $0.104 per kWh.
+
 ## Future growth
 
 The site currently has only one building, but has 38 acres and 100 MW of potential growth capacity.
