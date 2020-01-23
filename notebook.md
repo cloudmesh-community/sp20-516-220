@@ -3,6 +3,15 @@ Please make sure you update it every week even if you have no time to work on
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
+# Week 01/18/2020 - 01/24/2020
+* Read *Data Center*  chapter in *Cloud Computing* book.
+* Did data center assignments.
+* Verified info in [README.yml](./README.yml)
+* Verified Chameleon cloud account.
+* Setup python on my computers.
+* Setup multipass and did assignments.
+* Read Multipass in *Cloud computing* book.
+
 # Week 01/13/2020 - 01/17/2020
 
 * Read lecture notes up to week 1.
@@ -13,4 +22,3 @@ the last activities first (e.g. in reverse cronological order by week)
 * Created required accounts that I didn't already have (chameleon cloud).
 * Attended weekly zoom meeting for class.
 
-# Week 01/18/2020 - 01/24/2020
