@@ -109,6 +109,22 @@ As of 2018, their current sources of electricity include:
 | Utility-scale Solar |1.9 |
 | Hydroelectric | 0.9 |
 
+## Data Center Outages
+
+On December 27, 2018, CenturyLink, an internet service provider, started experiencing failures across its
+nationwide fiber network.  This outage lasted for 37 hours.  The root cause was found to be the failure
+of a single device in one of their data centers that then caused a cascade of errors due to network 
+configuration errors.  According to the FCC [report](https://www.fcc.gov/document/fcc-report-centurylink-network-outage)
+on the failure, the estimated number of users affected by this failure was 22 million across 39 states.
+
+Services impacted spanned across many different services including:
+
+* 911 phone services
+* Long distance phone calls
+* ATM transfers
+* State governmental entities
+* Other Providers (Verizon Wireless, Comcast, AT&T)
+ 
 ## References
 
 1. https://primedatacenters.com/sacramento-data-centers/
@@ -121,5 +137,6 @@ As of 2018, their current sources of electricity include:
 1. https://dbtdata.com/properties/cyber-integration-center/
 1. https://energy.hawaii.gov/renewable-energy
 1. https://energy.ehawaii.gov/epd/public/energy-projects-list.html
+1. https://www.fcc.gov/document/fcc-report-centurylink-network-outage
 
 
