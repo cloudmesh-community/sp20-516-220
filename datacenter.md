@@ -127,16 +127,16 @@ Services impacted spanned across many different services including:
  
 ## References
 
-1. https://primedatacenters.com/sacramento-data-centers/
-1. https://www.bizjournals.com/sacramento/news/2020/01/14/prime-data-centers-opens-first-facility-at.html
-1. https://www.smud.org/-/media/Documents/Corporate/Environmental-Leadership/PowerContentLabel.ashx
-1. https://www.energy.gov/eere/water/pumped-storage-hydropower
-1. https://www.ferc.gov/industries/hydropower/gen-info/licensing/pump-storage.asp
-1. https://www.dominionenergy.com/company/making-energy/renewable-generation/water/bath-county-pumped-storage-station
-1. https://www.pjm.com/
-1. https://dbtdata.com/properties/cyber-integration-center/
-1. https://energy.hawaii.gov/renewable-energy
-1. https://energy.ehawaii.gov/epd/public/energy-projects-list.html
-1. https://www.fcc.gov/document/fcc-report-centurylink-network-outage
+1. <https://primedatacenters.com/sacramento-data-centers/>
+1. <https://www.bizjournals.com/sacramento/news/2020/01/14/prime-data-centers-opens-first-facility-at.html>
+1. <https://www.smud.org/-/media/Documents/Corporate/Environmental-Leadership/PowerContentLabel.ashx>
+1. <https://www.energy.gov/eere/water/pumped-storage-hydropower>
+1. <https://www.ferc.gov/industries/hydropower/gen-info/licensing/pump-storage.asp>
+1. <https://www.dominionenergy.com/company/making-energy/renewable-generation/water/bath-county-pumped-storage-station>
+1. <https://www.pjm.com/>
+1. <https://dbtdata.com/properties/cyber-integration-center/>
+1. <https://energy.hawaii.gov/renewable-energy>
+1. <https://energy.ehawaii.gov/epd/public/energy-projects-list.html>
+1. <https://www.fcc.gov/document/fcc-report-centurylink-network-outage>
 
 
