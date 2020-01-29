@@ -1,9 +1,25 @@
+# Notebook for Josh Goodman
+
 You will add to your notebook in bullet form for each week what you have done. 
 Please make sure you update it every week even if you have no time to work on 
 anything. You can surely spend 2 minutes to update this document. Please put 
 the last activities first (e.g. in reverse cronological order by week)
 
-# Week 01/18/2020 - 01/24/2020
+## Week 01/25/2020 - 01/31/2020
+* Read Cloud computing architectures
+* Read Python chapter.
+* Answered venv question (see below).
+
+1. Why do you need to use venv for this class?
+
+  venv sets up an isolated Python runtime environment in a directory of your choosing.  The isolated
+  environment helps to keep any installed dependencies isolated across projects and/or the system
+  and it doesn't require root access for installing dependencies.  Isolation is the critical aspect here.
+  Often times, different projects will require slightly different versions of dependencies, without a virtual
+  environment you will end up with broken projects when a dependency in one project
+  has resulted in an unplanned upgrade of a dependency in another.
+
+## Week 01/18/2020 - 01/24/2020
 * Read *Data Center*  chapter in *Cloud Computing* book.
 * Did data center assignments.
 * Verified info in [README.yml](./README.yml)
@@ -12,7 +28,7 @@ the last activities first (e.g. in reverse cronological order by week)
 * Setup multipass and did assignments.
 * Read Multipass in *Cloud computing* book.
 
-# Week 01/13/2020 - 01/17/2020
+## Week 01/13/2020 - 01/17/2020
 
 * Read lecture notes up to week 1.
 * Read chapters 1, 2, and 3 of *Cloud Computing*.
