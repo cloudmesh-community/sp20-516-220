@@ -1,10 +1,12 @@
 # Notebook Josh Goodman sp20-516-220
 
-## Week 01/25/2020 - 01/31/2020
+## Week 01/27/2020 - 02/2/2020
 
 * Read Cloud computing architectures
 * Read Python chapter.
 * Answered venv question (see below).
+* Did exercises 1-3.
+* Worked on Provider.py
 
 1. Why do you need to use venv for this class?
 
@@ -15,7 +17,7 @@
   environment you will end up with broken projects when a dependency in one project
   has resulted in an unplanned upgrade of a dependency in another.
 
-## Week 01/18/2020 - 01/24/2020
+## Week 01/20/2020 - 01/26/2020
 
 * Read *Data Center*  chapter in *Cloud Computing* book.
 * Did data center assignments.
@@ -25,7 +27,7 @@
 * Setup multipass and did assignments.
 * Read Multipass in *Cloud computing* book.
 
-## Week 01/13/2020 - 01/17/2020
+## Week 01/13/2020 - 01/19/2020
 
 * Read lecture notes up to week 1.
 * Read chapters 1, 2, and 3 of *Cloud Computing*.
