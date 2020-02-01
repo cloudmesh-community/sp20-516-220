@@ -1,4 +1,4 @@
-# Data Center Power Report
+# Data Center :o2: title wrong
 
 ## Sacramento Data Center Campus
 
