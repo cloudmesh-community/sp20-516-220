@@ -7,19 +7,18 @@ import time
 from cloudmesh.common.StopWatch import StopWatch
 
 if __name__ == "__main__":
-    stopwatch = StopWatch()
-    stopwatch.start('timer1')
+    StopWatch.start('timer1')
     time.sleep(1)
-    stopwatch.start('timer2')
+    StopWatch.start('timer2')
     time.sleep(1)
-    stopwatch.stop('timer2')
-    stopwatch.start('timer3')
+    StopWatch.stop('timer2')
+    StopWatch.start('timer3')
     time.sleep(1)
-    stopwatch.stop('timer1')
+    StopWatch.stop('timer1')
     time.sleep(1)
-    stopwatch.stop('timer3')
+    StopWatch.stop('timer3')
 
-    stopwatch.benchmark()
+    StopWatch.benchmark()
 
 
 
