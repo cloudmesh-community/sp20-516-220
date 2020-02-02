@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sp20-516-220 E.Cloudmesh.Common.2
+# Josh Goodman sp20-516-220 E.Cloudmesh.Common.2
 
 from cloudmesh.common.dotdict import dotdict
 

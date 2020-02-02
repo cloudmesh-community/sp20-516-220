@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sp20-516-220 E.Cloudmesh.Common.3
+# Josh Goodman sp20-516-220 E.Cloudmesh.Common.3
 
 from cloudmesh.common.FlatDict import FlatDict
 from pprint import pprint

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sp20-516-220 E.Cloudmesh.Common.1
+# Josh Goodman sp20-516-220 E.Cloudmesh.Common.1
 
 from cloudmesh.common.util import banner, HEADING
 from cloudmesh.common.debug import VERBOSE
