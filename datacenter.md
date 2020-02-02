@@ -1,4 +1,4 @@
-# Data Center :o2: title wrong
+# Data Center Report by Josh Goodman sp20-516-220
 
 ## Sacramento Data Center Campus
 
