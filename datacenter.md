@@ -1,5 +1,7 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
+:o2: please add now also  bibtex for refernces put them in datacenter.md
+
 ## Sacramento Data Center Campus
 
 ### Overview
