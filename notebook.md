@@ -5,7 +5,8 @@
 * Read Cloud computing architectures
 * Read Python chapter.
 * Answered venv question (see below).
-* Did exercises 1-3.
+* Did E.cloudmesh.common exercises 1-5.
+* Did E.cloudmesh.Shell exercises 1-3.
 * Worked on Provider.py
 
 1. Why do you need to use venv for this class?
