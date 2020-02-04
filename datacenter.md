@@ -1,6 +1,6 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
-## Sacramento Data Center Campus
+## Sacramento Data Center Campus {#sec:sacramento_data_center}
 
 ### Overview
 
@@ -37,7 +37,7 @@ that the average cost of electricity for this facility will be $0.104 per kWh.
 
 The site currently has only one building, but has 38 acres and 100 MW of potential growth capacity.
 
-## Power Sources
+## Power Sources {#sec:power_sources}
 
 ### Other Renewable Sources
 
@@ -47,7 +47,7 @@ of the day and declines into the evening, whereas demand for power is generally 
 peaks in the evening.  To even this out engineers have devised systems called pumped storage
 hydropower.
 
-#### Pumped Storage Hydropower 
+#### Pumped Storage Hydropower
 
 In a pumped storage hydropower system
 two or more bodies of water are set at different elevations [@doepsh].  In a closed loop system you have two or more
@@ -75,7 +75,7 @@ all of the Virginia area.
 Harrisonburg, VA, which lies inside the PJM Interconnection zone has a data center that relies on power
 from this station among others [@dbtcyberintegrationcenter].
 
-## Renewable Energy Efforts in Hawaii
+## Renewable Energy Efforts in Hawaii {#sec:renewable_energy_hawaii}
 
 Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by 2045 [@hawaiienergy].
 They hope to do this by taking advantage of their natural surroundings and a variety of technologies.  These technologies
@@ -111,7 +111,7 @@ As of 2018, their current sources of electricity include:
 * [@hawaiienergy]
 * [@hawaiienergyprojects]
 
-## Data Center Outages
+## Data Center Outages {#sec:data_center_outages}
 
 On December 27, 2018, CenturyLink, an internet service provider, started experiencing failures across its
 nationwide fiber network.  This outage lasted for 37 hours.  The root cause was found to be the failure
@@ -128,4 +128,4 @@ Services impacted spanned across many different services including:
 * Other Providers (Verizon Wireless, Comcast, AT&T)
  
 
-## References
+## References {#sec:references}
