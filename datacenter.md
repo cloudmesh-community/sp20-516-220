@@ -1,13 +1,11 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
-:o2: please add now also  bibtex for refernces put them in datacenter.md
-
 ## Sacramento Data Center Campus
 
 ### Overview
 
-The Sacramento Data Center is a newly constructed (2019) data center that is owned
-by Prime Data Centers Inc.  It is located in [McClellan Park](https://www.mcclellanpark.com/)
+The Sacramento Data Center [@primedatacenters] is a newly constructed (2019)  data center that is owned
+by Prime Data Centers Inc [@mcclellanparkdatacenter].  It is located in McClellan Park [@mcclellanpark]
 outside of Sacramento, CA.
 
 ### Building One Specifications
@@ -15,6 +13,8 @@ outside of Sacramento, CA.
 * 68,853 square ft
 * 40,000 usable floor space
 * 8 MW power
+
+[@primedatacenters]
 
 ### Power source
 
@@ -26,11 +26,11 @@ electricity.
 * 26% Large Hydroelectric
 * 20% Eligible Renewable
 
-Power data sourced from [Power Content Label](https://www.smud.org/-/media/Documents/Corporate/Environmental-Leadership/PowerContentLabel.ashx).
+Power data sourced from Power Content Label [@smudpcl].
 
 ### Cost of power
 
-Using data from [OpenEI](https://openei.org/wiki/Utility_Rate_Database) it is esimated
+Using data from OpenEI [@openeiurd] it is estimated
 that the average cost of electricity for this facility will be $0.104 per kWh.
 
 ### Future growth
@@ -49,8 +49,8 @@ hydropower.
 
 #### Pumped Storage Hydropower 
 
-In a [pumped storage hydropower system](https://www.energy.gov/eere/water/pumped-storage-hydropower)
-two or more bodies of water are set at different elevations.  In a closed loop system you have two or more
+In a pumped storage hydropower system
+two or more bodies of water are set at different elevations [@doepsh].  In a closed loop system you have two or more
 bodies of water that have no connection to an outside body of water.  In an open loop system
 you would have two or more bodies of waters with one of them having a connection to an outside body of water.
 For example, an elevated and isolated reservoir along with a damned river.
@@ -66,21 +66,18 @@ better align supply/demand power requirements.
 
 ##### Bath County Pumped Storage Station
 
-One such pumped storage hydropower station is the [Bath County Pumped Storage station](https://www.dominionenergy.com/company/making-energy/renewable-generation/water/bath-county-pumped-storage-station).
-This station is the largest of its kind in the United States and feeds power into the [PJM Interconnection](https://www.pjm.com/), which includes
+One such pumped storage hydropower station is the Bath County Pumped Storage station [@bathcountypsh].
+This station is the largest of its kind in the United States and feeds power into the PJM Interconnection [@pjmhome], which includes
 all of the Virginia area.
 
 ##### Harrisonburg, VA Data Center
 
 Harrisonburg, VA, which lies inside the PJM Interconnection zone has a data center that relies on power
-from this station among others.
-
-* [DBT Data Cyber Integration Center](https://dbtdata.com/properties/cyber-integration-center/)
-
+from this station among others [@dbtcyberintegrationcenter].
 
 ## Renewable Energy Efforts in Hawaii
 
-Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by [2045](https://energy.hawaii.gov/renewable-energy).
+Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by 2045 [@hawaiienergy].
 They hope to do this by taking advantage of their natural surroundings and a variety of technologies.  These technologies
 include:
 
@@ -111,13 +108,16 @@ As of 2018, their current sources of electricity include:
 | Utility-scale Solar |1.9 |
 | Hydroelectric | 0.9 |
 
+* [@hawaiienergy]
+* [@hawaiienergyprojects]
+
 ## Data Center Outages
 
 On December 27, 2018, CenturyLink, an internet service provider, started experiencing failures across its
 nationwide fiber network.  This outage lasted for 37 hours.  The root cause was found to be the failure
 of a single device in one of their data centers that then caused a cascade of errors due to network 
-configuration errors.  According to the FCC [report](https://www.fcc.gov/document/fcc-report-centurylink-network-outage)
-on the failure, the estimated number of users affected by this failure was 22 million across 39 states.
+configuration errors.  According to the FCC report
+on the failure [@fcccenturylink], the estimated number of users affected by this failure was 22 million across 39 states.
 
 Services impacted spanned across many different services including:
 
@@ -127,18 +127,5 @@ Services impacted spanned across many different services including:
 * State governmental entities
 * Other Providers (Verizon Wireless, Comcast, AT&T)
  
+
 ## References
-
-1. <https://primedatacenters.com/sacramento-data-centers/>
-1. <https://www.bizjournals.com/sacramento/news/2020/01/14/prime-data-centers-opens-first-facility-at.html>
-1. <https://www.smud.org/-/media/Documents/Corporate/Environmental-Leadership/PowerContentLabel.ashx>
-1. <https://www.energy.gov/eere/water/pumped-storage-hydropower>
-1. <https://www.ferc.gov/industries/hydropower/gen-info/licensing/pump-storage.asp>
-1. <https://www.dominionenergy.com/company/making-energy/renewable-generation/water/bath-county-pumped-storage-station>
-1. <https://www.pjm.com/>
-1. <https://dbtdata.com/properties/cyber-integration-center/>
-1. <https://energy.hawaii.gov/renewable-energy>
-1. <https://energy.ehawaii.gov/epd/public/energy-projects-list.html>
-1. <https://www.fcc.gov/document/fcc-report-centurylink-network-outage>
-
-
