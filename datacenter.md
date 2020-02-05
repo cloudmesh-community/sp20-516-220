@@ -1,5 +1,7 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
+:o2: you do not use our lables for the assignments this its impossible for us to review or grade your assignment. See how others do it
+
 ## Sacramento Data Center Campus {#sec:sacramento_data_center}
 
 ### Overview
