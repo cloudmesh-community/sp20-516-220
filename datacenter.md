@@ -1,10 +1,8 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
-:o2: you do not use our lables for the assignments this its impossible for us to review or grade your assignment. See how others do it
+## E.Datacenter.2.b
 
-## Sacramento Data Center Campus {#sec:sacramento_data_center}
-
-### Overview
+### Overview - Sacramento Data Center at McClellan Park
 
 The Sacramento Data Center [@primedatacenters] is a newly constructed (2019)  data center that is owned
 by Prime Data Centers Inc [@mcclellanparkdatacenter].  It is located in McClellan Park [@mcclellanpark]
@@ -39,7 +37,7 @@ that the average cost of electricity for this facility will be $0.104 per kWh.
 
 The site currently has only one building, but has 38 acres and 100 MW of potential growth capacity.
 
-## Power Sources {#sec:power_sources}
+## E.Datacenter.4
 
 ### Other Renewable Sources
 
@@ -77,7 +75,9 @@ all of the Virginia area.
 Harrisonburg, VA, which lies inside the PJM Interconnection zone has a data center that relies on power
 from this station among others [@dbtcyberintegrationcenter].
 
-## Renewable Energy Efforts in Hawaii {#sec:renewable_energy_hawaii}
+## E.Datacenter.5
+
+### Hawaii
 
 Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by 2045 [@hawaiienergy].
 They hope to do this by taking advantage of their natural surroundings and a variety of technologies.  These technologies
@@ -113,7 +113,7 @@ As of 2018, their current sources of electricity include:
 * [@hawaiienergy]
 * [@hawaiienergyprojects]
 
-## Data Center Outages {#sec:data_center_outages}
+## E.Datacenter.8
 
 On December 27, 2018, CenturyLink, an internet service provider, started experiencing failures across its
 nationwide fiber network.  This outage lasted for 37 hours.  The root cause was found to be the failure
@@ -129,5 +129,3 @@ Services impacted spanned across many different services including:
 * State governmental entities
 * Other Providers (Verizon Wireless, Comcast, AT&T)
  
-
-## References {#sec:references}
