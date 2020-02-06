@@ -4,8 +4,8 @@
 
 ### Overview - Sacramento Data Center at McClellan Park
 
-The Sacramento Data Center [@primedatacenters] is a newly constructed (2019)  data center that is owned
-by Prime Data Centers Inc [@mcclellanparkdatacenter].  It is located in McClellan Park [@mcclellanpark]
+The Sacramento Data Center [@primedatacenters-sp20-516-220] is a newly constructed (2019)  data center that is owned
+by Prime Data Centers Inc [@mcclellanparkdatacenter-sp20-516-220].  It is located in McClellan Park [@mcclellanpark-sp20-516-220]
 outside of Sacramento, CA.
 
 ### Building One Specifications
@@ -14,7 +14,7 @@ outside of Sacramento, CA.
 * 40,000 usable floor space
 * 8 MW power
 
-[@primedatacenters]
+[@primedatacenters-sp20-516-220]
 
 ### Power source
 
@@ -26,11 +26,11 @@ electricity.
 * 26% Large Hydroelectric
 * 20% Eligible Renewable
 
-Power data sourced from Power Content Label [@smudpcl].
+Power data sourced from Power Content Label [@smudpcl-sp20-516-220].
 
 ### Cost of power
 
-Using data from OpenEI [@openeiurd] it is estimated
+Using data from OpenEI [@openeiurd-sp20-516-220] it is estimated
 that the average cost of electricity for this facility will be $0.104 per kWh.
 
 ### Future growth
@@ -50,7 +50,7 @@ hydropower.
 #### Pumped Storage Hydropower
 
 In a pumped storage hydropower system
-two or more bodies of water are set at different elevations [@doepsh].  In a closed loop system you have two or more
+two or more bodies of water are set at different elevations [@doepsh-sp20-516-220].  In a closed loop system you have two or more
 bodies of water that have no connection to an outside body of water.  In an open loop system
 you would have two or more bodies of waters with one of them having a connection to an outside body of water.
 For example, an elevated and isolated reservoir along with a damned river.
@@ -66,20 +66,20 @@ better align supply/demand power requirements.
 
 ##### Bath County Pumped Storage Station
 
-One such pumped storage hydropower station is the Bath County Pumped Storage station [@bathcountypsh].
-This station is the largest of its kind in the United States and feeds power into the PJM Interconnection [@pjmhome], which includes
+One such pumped storage hydropower station is the Bath County Pumped Storage station [@bathcountypsh-sp20-516-220].
+This station is the largest of its kind in the United States and feeds power into the PJM Interconnection [@pjmhome-sp20-516-220], which includes
 all of the Virginia area.
 
 ##### Harrisonburg, VA Data Center
 
 Harrisonburg, VA, which lies inside the PJM Interconnection zone has a data center that relies on power
-from this station among others [@dbtcyberintegrationcenter].
+from this station among others [@dbtcyberintegrationcenter-sp20-516-220].
 
 ## E.Datacenter.5
 
 ### Hawaii
 
-Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by 2045 [@hawaiienergy].
+Hawaii has made a bold commitment to generate 100% of their energy from renewable sources by 2045 [@hawaiienergy-sp20-516-220].
 They hope to do this by taking advantage of their natural surroundings and a variety of technologies.  These technologies
 include:
 
@@ -110,8 +110,8 @@ As of 2018, their current sources of electricity include:
 | Utility-scale Solar |1.9 |
 | Hydroelectric | 0.9 |
 
-* [@hawaiienergy]
-* [@hawaiienergyprojects]
+* [@hawaiienergy-sp20-516-220]
+* [@hawaiienergyprojects-sp20-516-220]
 
 ## E.Datacenter.8
 
@@ -119,7 +119,7 @@ On December 27, 2018, CenturyLink, an internet service provider, started experie
 nationwide fiber network.  This outage lasted for 37 hours.  The root cause was found to be the failure
 of a single device in one of their data centers that then caused a cascade of errors due to network 
 configuration errors.  According to the FCC report
-on the failure [@fcccenturylink], the estimated number of users affected by this failure was 22 million across 39 states.
+on the failure [@fcccenturylink-sp20-516-220], the estimated number of users affected by this failure was 22 million across 39 states.
 
 Services impacted spanned across many different services including:
 
