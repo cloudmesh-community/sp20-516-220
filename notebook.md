@@ -1,6 +1,16 @@
 # Notebook Josh Goodman sp20-516-220
 
-## Week 01/27/2020 - 02/2/2020
+## Week 02/10/2020 - 02/16/2020
+
+* Worked on proptype using Electron and Next JS
+
+## Week 02/03/2020 - 02/09/2020
+
+* Researched the UI project goals
+* Met with Dr. Laszewski to discuss UI project.
+* Started evaluating UI frameworks (Electron, Proton Native, React NodeGUI, NW.js)
+
+## Week 01/27/2020 - 02/02/2020
 
 * Read Cloud computing architectures
 * Read Python chapter.
