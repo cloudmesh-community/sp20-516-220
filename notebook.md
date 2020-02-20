@@ -1,8 +1,21 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 02/17/2020 - 02/23/2020
+
+* Documented evaluation.
+* Moved Nextron prototype to `develop` branch.
+* Installed and setup cloudmesh Mongo.
+* Installed and setup cmsd.
+
 ## Week 02/10/2020 - 02/16/2020
 
 * Worked on proptype using Electron and Next JS
+* Evaluated Nextron (Electron + NextJS)
+* Evaluated React Node GUI
+* Evaluated Proton Native
+* Evaluated Electron React Boilerplate
+* Finished basic prototype.
+* Wrote basic docs for downloading, building, and running the prototype.
 
 ## Week 02/03/2020 - 02/09/2020
 
