@@ -1,5 +1,7 @@
 # Data Center Report by Josh Goodman sp20-516-220
 
+:o2: citations can not be just standing alone and must be used in a full sentence
+
 ## E.Datacenter.2.b
 
 ### Overview - Sacramento Data Center at McClellan Park
