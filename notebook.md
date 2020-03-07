@@ -1,5 +1,10 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 03/02/2020 - 03/08/2020
+
+* Started new [branch](https://github.com/cloudmesh/cloudmesh-javascript/tree/release/0.1.0-alpha) for first alpha version.
+* Worked on electron to cms bridge via PythonShell and the cloudmesh.cloud.Shell library.
+
 ## Week 02/24/2020 - 03/01/2020
 
 * Setup a [performance](https://github.com/cloudmesh/cloudmesh-javascript/tree/feature/performance) branch for evaluating electron performance.
