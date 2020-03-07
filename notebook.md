@@ -1,5 +1,12 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 02/24/2020 - 03/01/2020
+
+* Setup a [performance](https://github.com/cloudmesh/cloudmesh-javascript/tree/feature/performance) branch for evaluating electron performance.
+* Evaluated various methods for executing Python scripts and the cloudmesh binary (cms).
+* Settled on using [PythonShell](https://github.com/extrabacon/python-shell) for executing the electron to cms bridge.
+
+
 ## Week 02/17/2020 - 02/23/2020
 
 * Documented evaluation.
