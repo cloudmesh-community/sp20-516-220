@@ -1,5 +1,29 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 04/06/2020 - 04/12/2020
+
+* Added job queue for Electron -> CMS so that only one command at a time can be sent.
+
+## Week 03/30/2020 - 04/05/2020
+
+* Implemented reading of VIRTUAL_ENV.
+* Debugged various issues with multi level async handling.
+* Attempted several different approaches to tackling async and event streaming problems when interfacing between Javascript and Python.
+
+## Week 03/23/2020 - 03/29/2020
+
+* Extended spring break due to Coronavirus
+* Migrated to using IpcRenderer.invoke() method.
+
+## Week 03/16/2020 - 03/22/2020
+
+* Spring break
+
+## Week 03/09/2020 - 03/15/2020
+
+* Added support for Python environment detection.
+* Added support for user to update/change their Python environment.
+
 ## Week 03/02/2020 - 03/08/2020
 
 * Started new [branch](https://github.com/cloudmesh/cloudmesh-javascript/tree/release/0.1.0-alpha) for first alpha version.
