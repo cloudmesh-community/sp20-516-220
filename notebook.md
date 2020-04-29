@@ -1,5 +1,25 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 04/27/2020 - 05/03/2020
+
+* Enabled CMS Cloud switching via option.
+* Enabled display of CMS error messages for images and flavors pages.
+* Added async and sync support to CMS calls.
+
+## Week 04/20/2020 - 04/26/2020
+
+* Improved error handling from CMS calls.
+* Added cms viewer command support for linux and mac.
+* Documented cms viewer command support.
+* Added refresh button component.
+
+## Week 04/13/2020 - 04/19/2020
+
+* Added support for CMS flavors to cloudmesh-javascript
+* Added support for CMS Images to cloudmesh-javascript
+* Added custom React hooks for interfacing with cloudmesh
+* Improved CMS path handling.
+
 ## Week 04/06/2020 - 04/12/2020
 
 * Added job queue for Electron -> CMS so that only one command at a time can be sent.
