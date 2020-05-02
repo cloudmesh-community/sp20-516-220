@@ -5,6 +5,9 @@
 * Enabled CMS Cloud switching via option.
 * Enabled display of CMS error messages for images and flavors pages.
 * Added async and sync support to CMS calls.
+* Added main landing page.
+* Added CMS profile page with editing features.
+* Added cloud provider swtiching feature.
 
 ## Week 04/20/2020 - 04/26/2020
 
