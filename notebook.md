@@ -1,5 +1,13 @@
 # Notebook Josh Goodman sp20-516-220
 
+## Week 05/04/2020 - 05/10/2020
+
+* Troubleshot startup error from Gregor.
+* Fully implemented profile editor.
+* Added ssh login function.
+* Added VM log viewer.
+* Help docs w/ screenshots
+
 ## Week 04/27/2020 - 05/03/2020
 
 * Enabled CMS Cloud switching via option.
